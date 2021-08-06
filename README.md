@@ -12,3 +12,4 @@
 * Lombok
 * jsoup
 * Spring Boot, Spring Data JPA
+* PostgreSQL
